@@ -5,3 +5,7 @@ Começo dos estudos dia 10-04-2020
 
 Comecei aprendendo o básico sobre a linguagem, quais os tipos de variávei existentes e os tipos de dados.
 Também nesses primeiros estudos aprendi sobre concatenação e escopo de variáveis, sobre constantes e arrays.
+
+17-04-2020
+
+Continuando os estudos com arrays, vi como colocar indices associativos
