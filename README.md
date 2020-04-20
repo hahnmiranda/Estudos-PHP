@@ -9,3 +9,7 @@ Também nesses primeiros estudos aprendi sobre concatenação e escopo de variá
 17-04-2020
 
 Continuando os estudos com arrays, vi como colocar indices associativos
+
+19-04-2020
+
+Seguindo os estudos com PHP, estudei mais sobre funções e as variávies superglobais.
