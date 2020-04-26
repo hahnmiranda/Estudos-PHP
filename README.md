@@ -13,3 +13,7 @@ Continuando os estudos com arrays, vi como colocar indices associativos
 19-04-2020
 
 Seguindo os estudos com PHP, estudei mais sobre funções e as variávies superglobais.
+
+26-04-2020
+
+Aprendi a fazer um sistema de login, estudei sobre criptografia e começando a fazer um crud com PHP e mysql
