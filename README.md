@@ -17,3 +17,7 @@ Seguindo os estudos com PHP, estudei mais sobre funções e as variávies superg
 26-04-2020
 
 Aprendi a fazer um sistema de login, estudei sobre criptografia e começando a fazer um crud com PHP e mysql
+
+27-04-2020
+
+Conclusão do crud
