@@ -26,4 +26,4 @@ Conclusão do crud
 
 Aprendi a trabalhar com cookies, datas, manipulação de arquivos (texto) e expressões regulares
 
-**Trabalhos futuros: aprimorar os conhecimentos em HTML e CSS e fazer um curso de Materialize
+*Trabalhos futuros: aprimorar os conhecimentos em HTML e CSS e fazer um curso de Materialize*
